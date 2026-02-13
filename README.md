@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Riad Oustani
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning React and Java
+- 🌱 I’m currently learning React, Express, MongoDB, NodeJs and Laravel
 - 💞️ I’m looking to collaborate on a IT Company
 - ⚡ Fun fact: I'm the coock...
 <!--
