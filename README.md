@@ -3,11 +3,10 @@
 - 🌱 I’m currently learning Spring Boot
 - 💞️ I’m looking to collaborate on a IT Company
 - ⚡ Fun fact: I'm the coock...
-<!--
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
 
---->
+- 📫 How to reach me : riadoustani07@gmail.com
+
+
 <!---
 Riad-7/Riad-7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
